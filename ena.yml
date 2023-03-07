@@ -1,0 +1,12 @@
+name: ena
+dependencies:
+  - numpy
+  - pandas 
+  - matplotlib
+  - scipy
+  - spyder
+  - jupyter
+  - jupyterlab
+  - jupyter
+  - sympy
+  - seaborn
